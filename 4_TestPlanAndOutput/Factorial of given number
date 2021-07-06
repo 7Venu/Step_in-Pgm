@@ -1,0 +1,14 @@
+
+/*********************************************
+calculates the factorial of given integer
+@param n input integer
+@return factorial of n
+***********************************************/
+
+int factorial(int n){
+    if (n == 0)
+        return 1;
+    else
+        return n * factorial(n-1); /// recursive calculation
+}
+
