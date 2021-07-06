@@ -1,0 +1,13 @@
+
+/***********************************************
+return the determinant term of quadratic equation
+@param a highest order coeffcient
+@param b lower order coefficient
+@param c lowest coefficient
+@return determinant term
+************************************************/
+float determinantTerm(float a, float b, float c)
+{
+    float temp = b*b - 4 * a * c;
+    return temp;
+}
