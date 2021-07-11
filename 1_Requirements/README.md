@@ -29,7 +29,7 @@ Afterward, the innovations and updates in this device industry are still continu
 | 2010 | Color Graphing Calculator | Casio Prism | Casio |
 ## Defining Our System
 ### System Overview
-![System Overview](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/System.png)
+![System Overview](https://github.com/7Venu/step_in-pgm/blob/main/1_Requirements/System.png)
 ### Features
 #### Arthimetic Operations:By choosing  choice between '1' to '4'
 *   '1'-Addition
@@ -49,7 +49,7 @@ Afterward, the innovations and updates in this device industry are still continu
 *   '13'-Secant function
 *   '14'-Cosecant function
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/7Venu/Step_in-pgm/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
 ## Who
