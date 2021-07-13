@@ -1,7 +1,4 @@
-https://www.code-inspector.com/project/24952/score/svg
-
-
-https://www.code-inspector.com/project/24952/status/svg
+https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml
 
 
 # SDLC Activity Based Learning
