@@ -1,4 +1,7 @@
 https://www.code-inspector.com/project/24952/score/svg
+https://www.code-inspector.com/project/24952/status/svg
+
+
 # SDLC Activity Based Learning
 ![image](https://user-images.githubusercontent.com/86421554/125202928-a0285600-e293-11eb-8c5c-46fb4ff003c9.png)
 
