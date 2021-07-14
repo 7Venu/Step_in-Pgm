@@ -1,5 +1,7 @@
 [![Git Inspector](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml)
 
+[![CI](https://github.com/7Venu/Step_in-Pgm/actions/workflows/main.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/main.yml)
+
 
 # SDLC Activity Based Learning
 ![image](https://user-images.githubusercontent.com/86421554/125202928-a0285600-e293-11eb-8c5c-46fb4ff003c9.png)
