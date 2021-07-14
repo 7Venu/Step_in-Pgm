@@ -15,18 +15,15 @@
 
 # Badges
 
- Status | Badge
- ------ | -------------------------------------------------------------------------------------------------
-Cpp check | [![cppcheck](https://github.com/7Venu/Step_in-Pgm/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/cppcheck.yml)|
+[![C/C++ CI](https://github.com/7Venu/Step_in-Pgm/actions/workflows/c-build.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/c-build.yml)
 
- Build   | [![C/C++ CI][![C/C++ CI](https://github.com/7Venu/Step_in-Pgm/actions/workflows/c-build.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/c-build.yml)
- 
- Code quality |[![Code Quality Score](https://www.code-inspector.com/project/24952/score/svg)](https://frontend.code-inspector.com/public/project/24952/Step_in-Pgm/dashboard)[!
- 
- [Code Grade](https://www.code-inspector.com/project/24952/status/svg)](https://frontend.code-inspector.com/public/project/24952/Step_in-Pgm/dashboard)
- 
- Git inspector |[![Check - Git Inspector][![Check - Git Inspector](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml)
- 
+[![Check - Git Inspector](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/gitinspector.yml)
+
+[![cppcheck](https://github.com/7Venu/Step_in-Pgm/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/7Venu/Step_in-Pgm/actions/workflows/cppcheck.yml)
+
+[![Code Quality Score](https://www.code-inspector.com/project/24952/score/svg)
+
+[Code Grade](https://www.code-inspector.com/project/24952/status/svg)
 
 
 ## Contributors List and Summary
