@@ -30,3 +30,10 @@
 |SF Id. |  Name   |    Features    |No.Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
 | `303037` | VENU K | Arthimetic,trignometric and other Opearations |  30   |  30 |
+
+## Challenges Faced and How Was It Overcome
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1| Had faced a lot of errors while running the code in the VSC software and couldn't clone it directly with GitHub | Resolved it by using commands in the terminal |
+|2| Had to build more efficient test cases  | In process |
+
