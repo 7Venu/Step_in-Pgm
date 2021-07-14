@@ -23,7 +23,7 @@
 
 [![Code Quality Score](https://www.code-inspector.com/project/24952/score/svg)
 
-[Code Grade](https://www.code-inspector.com/project/24952/status/svg)
+[![Code Grade](https://www.code-inspector.com/project/24952/status/svg)
 
 
 ## Contributors List and Summary
